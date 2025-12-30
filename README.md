@@ -98,7 +98,7 @@ Typical actions:
 
 ---
 
-## 🧠 Implementation notes (high level)
+## 🧠 Implementation notes
 
 A typical structure used in this project:
 
